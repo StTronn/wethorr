@@ -10,6 +10,8 @@ weather app for smart mirror, displays current weather and forecast with graph.
 
 `npm install`
 
+`REACT_APP_WEATHER_API_KEY='openweatherapi key'`
+
 `npm start` 
 
 [http://localhost:3000](http://localhost:3000)
